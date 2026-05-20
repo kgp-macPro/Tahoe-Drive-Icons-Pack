@@ -75,9 +75,10 @@ Designed for Hackintosh and macOS enthusiasts.
 
 # Usage
 
-1. Select a drive in Finder
-2. Press CMD + I
-3. Drag the ICNS file onto the drive icon
+1. Right-click the desired disk icon on your macOS Desktop.
+2. Select **Get Info**.
+3. Drag the respective `.icns` file onto the small icon in the upper-left corner of the Info window.
+4. Close the Info window.
 
 ---
 
@@ -91,9 +92,9 @@ Anybody willing to further improve ICNS quality is welcome to create optimized I
 
 # Creation Process
 
-I ended up creating a complete set of 12 master templates for blank system disks in 12 different colours (1254×1254 pixels each) together with ChatGPT.
+As the baseline, a complete set of 12 master templates for blank system disks in 12 different colours (1254×1254 pixels each) have been created together with ChatGPT.
 
-The final templates were then manually refined in Pixelmator Pro, including:
+The final templates were then manually produced and refined in Pixelmator Pro, including:
 
 - manual background removal
 - manual placement of all symbols and lettering
@@ -122,7 +123,7 @@ Special thanks to @allannyholm for the original inspiration of the early experim
 
 # Credits
 
-Design and manual refinement:
+Production, design and manual refinement:
 KGP
 
 AI-assisted template generation:
