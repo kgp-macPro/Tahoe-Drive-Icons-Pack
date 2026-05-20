@@ -114,6 +114,8 @@ Starting with the final Tahoe Drive Icons releases, however, the entire project 
 - newly generated icon compositions
 - identical geometry and viewing angles across all editions
 
+Operating system and filesystem logos used in the icon compositions were based on publicly available SVG resources and were manually integrated into the final icon designs.
+
 Special thanks to @allannyholm for the original inspiration of the early experimental design direction.
 
 ---
