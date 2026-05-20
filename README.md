@@ -83,11 +83,38 @@ Designed for Hackintosh and macOS enthusiasts.
 
 # Important Notes
 
-The included templates are the original high-resolution master templates used for creating the final icons.
-
-The final ICNS files were manually created using Preview.app and Image2Icon.
+The included templates are the original high-resolution empty master disk templates used for creating the final drive icons.
 
 Anybody willing to further improve ICNS quality is welcome to create optimized ICNS files based on the included templates.
+
+---
+
+# Creation Process
+
+I ended up creating a complete set of 12 master templates for blank system disks in 12 different colours (1254×1254 pixels each) together with ChatGPT.
+
+The final templates were then manually refined in Pixelmator Pro, including:
+
+- manual background removal
+- manual placement of all symbols and lettering
+- final visual alignment and polishing
+
+The final conversion to ICNS files was performed with Image2Icon.
+
+---
+
+# Design Evolution & Credits
+
+Earlier experimental releases partially used and extended existing drive icon concepts originally created by @allannyholm.
+
+Starting with the final Tahoe Drive Icons releases, however, the entire project was completely reworked into a fully independent and internally consistent icon family with:
+
+- newly created layouts
+- unified disk master templates
+- newly generated icon compositions
+- identical geometry and viewing angles across all editions
+
+Special thanks to @allannyholm for the original inspiration of the early experimental design direction.
 
 ---
 
