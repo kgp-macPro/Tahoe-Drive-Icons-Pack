@@ -1,0 +1,3 @@
+Original raw ChatGPT-generated blank disk templates used as the starting point for the final Tahoe Drive Icons project.
+
+The final icon sets were manually refined and reworked in Pixelmator Pro.
