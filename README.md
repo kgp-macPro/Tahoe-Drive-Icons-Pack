@@ -165,9 +165,7 @@ OpenAI ChatGPT
 
 ---
 
-# Support
+If the Tahoe Drive Icons Pack was useful to you:
 
-If you enjoy the Tahoe Drive Icons Pack and would like to support future work:
-
-Buy me a coffee ☕  
+A coffee is always appreciated ☕  
 https://buymeacoffee.com/kgp.macpro
