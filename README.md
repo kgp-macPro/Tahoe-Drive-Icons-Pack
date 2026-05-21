@@ -1,6 +1,6 @@
 # Tahoe Drive Icons Pack
 
-High-quality macOS Tahoe inspired drive icons for:
+High-quality macOS Tahoe-inspired drive icons for:
 
 - macOS
 - Windows
@@ -90,6 +90,23 @@ The repository contains:
 ---
 
 # Usage
+
+## Enable Disk Icons on Desktop
+
+1. Open the macOS menu bar.
+2. Select **Finder → Settings**.
+3. Under **Show these items on the desktop**, enable:
+   - **Hard disks**
+
+---
+
+## Adjust Desktop Disk Icon Size
+
+1. Right-click on an empty area of the Desktop.
+2. Select **Show View Options**.
+3. Adjust the **Icon Size** slider.
+
+---
 
 ## macOS Desktop / Finder
 
