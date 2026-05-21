@@ -11,6 +11,22 @@ Designed for Hackintosh and macOS enthusiasts.
 
 ---
 
+# Download Source
+
+GitHub Repository + Releases:
+
+https://github.com/kgp-macPro/Tahoe-Drive-Icons-Pack
+
+The repository contains:
+
+- all preview images
+- all PNG assets
+- all ICNS files
+- all master templates
+- complete downloadable ZIP releases
+
+---
+
 # Real Desktop Usage
 
 ![Desktop Preview](Preview/Desktop-Preview.png)
@@ -75,10 +91,27 @@ Designed for Hackintosh and macOS enthusiasts.
 
 # Usage
 
+## macOS Desktop / Finder
+
 1. Right-click the desired disk icon on your macOS Desktop.
 2. Select **Get Info**.
 3. Drag the respective `.icns` file onto the small icon in the upper-left corner of the Info window.
 4. Close the Info window.
+
+---
+
+## Typical Usage Scenarios
+
+The Tahoe Drive Icons Pack is especially suited for:
+
+- macOS Desktop drive customization
+- EFI partitions
+- OpenCore Boot Picker environments
+- Recovery volumes
+- APFS / NTFS / Linux partitions
+- external SSD and USB installations
+- Hackintosh multi-boot systems
+- OpenCore-based macOS setups
 
 ---
 
@@ -128,3 +161,12 @@ KGP
 
 AI-assisted template generation:
 OpenAI ChatGPT
+
+---
+
+# Support
+
+If you enjoy the Tahoe Drive Icons Pack and would like to support future work:
+
+Buy me a coffee ☕  
+https://buymeacoffee.com/kgp.macpro
