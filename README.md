@@ -125,12 +125,13 @@ Anybody willing to further improve ICNS quality is welcome to create optimized I
 
 # Creation Process
 
-As the baseline, a complete set of 12 master templates for blank system disks in 12 different colours (1254×1254 pixels each) have been created together with ChatGPT.
+As the baseline, a complete set of 12 master templates for blank system disks in 12 different colours (1254×1254 pixels each) was created together with ChatGPT.
 
-The final templates were then manually produced and refined in Pixelmator Pro, including:
+The final icon sets were then manually produced and refined in Pixelmator Pro, including:
 
-- manual background removal
-- manual placement of all symbols and lettering
+- manual background removal from the 12 master templates for blank system disks
+- manual destretching and positioning of the 12 blank system disks within each canvas
+- manual placement of all icons, symbols and lettering
 - final visual alignment and polishing
 
 The final conversion to ICNS files was performed with Image2Icon.
