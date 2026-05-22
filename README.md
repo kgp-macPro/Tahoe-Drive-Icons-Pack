@@ -132,24 +132,6 @@ The Tahoe Drive Icons Pack is especially suited for:
 
 ---
 
-# Important Notes
-
-The included templates are the original high-resolution empty master disk templates used for creating the final drive icons.
-
-Anybody willing to further improve ICNS quality is welcome to create optimized ICNS files based on the included templates.
-
-The icon system was intentionally designed around a unified set of 12 blank master disk templates.
-
-As long as future icons continue to use these original master templates, the entire icon family remains visually consistent, reproducible and infinitely expandable — almost like a LEGO system for Tahoe-style drive icons.
-
-Future expansions could include additional external drive editions, SSD and NVMe brand editions, NAS and server environments, retro operating systems, gaming-oriented themes or entirely new filesystem families — all while preserving a unified Tahoe-style visual appearance.
-
-For full reproducibility and further expansion of the icon family, it is strongly recommended to continue working in Pixelmator Pro.
-
-The released production PNGs preserve the layers generated within Pixelmator Pro, which were used throughout the entire icon creation workflow.
-
----
-
 # Creation Process
 
 As the baseline, a complete set of 12 master templates for blank system disks in 12 different colours (1254×1254 pixels each) was created together with ChatGPT.
@@ -162,6 +144,24 @@ The final icon sets were then manually produced and refined in Pixelmator Pro, i
 - final visual alignment and polishing
 
 The final conversion to ICNS files was performed with Image2Icon.
+
+---
+
+# Important Notes
+
+# Important Notes
+
+Anybody willing to further improve ICNS quality is welcome to create optimized ICNS files based on the included templates.
+
+The icon system was intentionally designed around a unified set of 12 blank master disk templates.
+
+As long as future icons continue to use these original master templates, the entire icon family remains visually consistent, reproducible and infinitely expandable — almost like a LEGO system for Tahoe-style drive icons.
+
+Future expansions could include additional external drive editions, SSD and NVMe brand editions, NAS and server environments, different operating systems, gaming-oriented themes or entirely new filesystem families — all while preserving a unified Tahoe-style visual appearance.
+
+For full reproducibility and further expansion of the icon family, it is strongly recommended to continue working in Pixelmator Pro.
+
+The released production PNGs preserve the layers generated within Pixelmator Pro, which were used throughout the entire icon creation workflow.
 
 ---
 
