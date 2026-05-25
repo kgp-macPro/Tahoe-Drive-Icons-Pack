@@ -34,47 +34,47 @@ The repository contains:
 
 ---
 
-# macOS Edition
+# macOS Disk Environments Edition
 
-![macOS Edition](Preview/Colour-Variants-macOS.png)
-
----
-
-# Windows Edition
-
-![Windows Edition](Preview/Colour-Variants-Windows.png)
+![macOS Disk Environments Edition](Preview/Colour-Variants-macOS.png)
 
 ---
 
-# Linux Edition
+# Windows Disk Environments Edition
 
-![Linux Edition](Preview/Colour-Variants-Linux.png)
-
----
-
-# Disk Formats Edition
-
-![Disk Formats Edition](Preview/Colour-Variants-DiskFormat.png)
+![Windows Disk Environments Edition](Preview/Colour-Variants-Windows.png)
 
 ---
 
-# Detailed Icon Variants
+# Linux Disk Environments Edition
 
-## macOS
+![Linux Disk Environments Edition](Preview/Colour-Variants-Linux.png)
 
-![macOS Variants](Preview/Icon-Variants-macOS.png)
+---
 
-## Windows
+# Disk Format Environments Edition
 
-![Windows Variants](Preview/Icon-Variants-Windows.png)
+![Disk Format Environments Edition](Preview/Colour-Variants-DiskFormat.png)
 
-## Linux
+---
 
-![Linux Variants](Preview/Icon-Variants-Linux.png)
+# Detailed Icon Editions
 
-## Disk Formats
+## macOS Disk Environments Edition
 
-![Disk Format Variants](Preview/Icon-Variants-DiskFormat.png)
+![macOS Disk Environments Edition](Preview/Icon-Variants-macOS.png)
+
+## Windows Disk Environments Edition
+
+![Windows Disk Environments Edition](Preview/Icon-Variants-Windows.png)
+
+## Linux Disk Environments Edition
+
+![Linux Disk Environments Edition](Preview/Icon-Variants-Linux.png)
+
+## Disk Format Environments Edition
+
+![Disk Format Environments Edition](Preview/Icon-Variants-DiskFormat.png)
 
 ---
 
@@ -83,8 +83,8 @@ The repository contains:
 - Unified Tahoe-style design
 - Identical viewing angle and geometry
 - Consistent lighting and reflections
-- Multiple operating system variants
-- Multiple disk format variants
+- Multiple operating system disk environments
+- Multiple disk format environments
 - High-resolution master templates
 - Ready for ICNS conversion
 
@@ -156,7 +156,7 @@ The icon system was intentionally designed around a unified set of 12 blank mast
 
 As long as future icons continue to use these original master templates, the entire icon family remains visually consistent, reproducible and infinitely expandable — almost like a LEGO system for Tahoe-style drive icons.
 
-Future expansions could include additional external drive editions, SSD and NVMe brand editions, NAS and server environments, different operating systems, gaming-oriented themes or entirely new filesystem families — all while preserving a unified Tahoe-style visual appearance.
+Future expansions could include additional external drive editions, SSD and NVMe brand editions, NAS and server environments, additional operating system disk environments, gaming-oriented themes or entirely new filesystem families — all while preserving a unified Tahoe-style visual appearance.
 
 For full reproducibility and further expansion of the icon family, it is strongly recommended to continue working in Pixelmator Pro.
 
