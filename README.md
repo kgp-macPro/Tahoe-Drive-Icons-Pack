@@ -150,8 +150,6 @@ The final conversion to ICNS files was performed with Image2Icon.
 
 # Important Notes
 
-# Important Notes
-
 Anybody willing to further improve ICNS quality is welcome to create optimized ICNS files based on the included templates.
 
 The icon system was intentionally designed around a unified set of 12 blank master disk templates.
