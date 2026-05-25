@@ -2,9 +2,9 @@
 
 High-quality modular macOS Tahoe drive icons for macOS systems featuring:
 
-- macOS-inspired disk drive environments
-- Windows-inspired disk drive environments
-- Linux-inspired disk drive environments
+- macOS disk drive environments
+- Windows disk drive environments
+- Linux disk drive environments
 - EFI and Recovery environments
 - multiple disk format environments
 
