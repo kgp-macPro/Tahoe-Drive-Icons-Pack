@@ -1,6 +1,6 @@
 # Tahoe Drive Icons Pack
 
-High-quality modular macOS Tahoe drive icons for assigning custom icons to macOS, Windows, Linux, EFI, Recovery and disk format drives on macOS systems.
+High-quality modular drive icons for assigning custom icons to macOS, Windows, Linux, EFI, Recovery and disk format drives on macOS Tahoe.
 
 Designed for Hackintosh and macOS enthusiasts.
 
