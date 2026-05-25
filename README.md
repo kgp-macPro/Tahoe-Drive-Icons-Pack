@@ -1,11 +1,12 @@
 # Tahoe Drive Icons Pack
 
-High-quality macOS Tahoe-inspired drive icons for:
+High-quality modular macOS Tahoe drive icons for macOS systems featuring:
 
-- macOS
-- Windows
-- Linux
-- Disk Formats
+- macOS environments
+- Windows environments
+- Linux environments
+- EFI and Recovery environments
+- multiple disk format environments
 
 Designed for Hackintosh and macOS enthusiasts.
 
