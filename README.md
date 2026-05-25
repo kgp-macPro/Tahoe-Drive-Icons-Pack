@@ -2,9 +2,9 @@
 
 High-quality modular macOS Tahoe drive icons for macOS systems featuring:
 
-- macOS disk environments
-- Windows disk environments
-- Linux disk environments
+- macOS-inspired disk drive environments
+- Windows-inspired disk drive environments
+- Linux-inspired disk drive environments
 - EFI and Recovery environments
 - multiple disk format environments
 
@@ -34,47 +34,47 @@ The repository contains:
 
 ---
 
-# macOS Disk Environments Edition
+# macOS-Inspired Disk Drive Edition
 
-![macOS Disk Environments Edition](Preview/Colour-Variants-macOS.png)
-
----
-
-# Windows Disk Environments Edition
-
-![Windows Disk Environments Edition](Preview/Colour-Variants-Windows.png)
+![macOS-Inspired Disk Drive Edition](Preview/Colour-Variants-macOS.png)
 
 ---
 
-# Linux Disk Environments Edition
+# Windows-Inspired Disk Drive Edition
 
-![Linux Disk Environments Edition](Preview/Colour-Variants-Linux.png)
+![Windows-Inspired Disk Drive Edition](Preview/Colour-Variants-Windows.png)
 
 ---
 
-# Disk Format Environments Edition
+# Linux-Inspired Disk Drive Edition
 
-![Disk Format Environments Edition](Preview/Colour-Variants-DiskFormat.png)
+![Linux-Inspired Disk Drive Edition](Preview/Colour-Variants-Linux.png)
+
+---
+
+# Multiple Disk Formats Edition
+
+![Multiple Disk Formats Edition](Preview/Colour-Variants-DiskFormat.png)
 
 ---
 
 # Detailed Icon Editions
 
-## macOS Disk Environments Edition
+## macOS-Inspired Disk Drive Edition
 
-![macOS Disk Environments Edition](Preview/Icon-Variants-macOS.png)
+![macOS-Inspired Disk Drive Edition](Preview/Icon-Variants-macOS.png)
 
-## Windows Disk Environments Edition
+## Windows-Inspired Disk Drive Edition
 
-![Windows Disk Environments Edition](Preview/Icon-Variants-Windows.png)
+![Windows-Inspired Disk Drive Edition](Preview/Icon-Variants-Windows.png)
 
-## Linux Disk Environments Edition
+## Linux-Inspired Disk Drive Edition
 
-![Linux Disk Environments Edition](Preview/Icon-Variants-Linux.png)
+![Linux-Inspired Disk Drive Edition](Preview/Icon-Variants-Linux.png)
 
-## Disk Format Environments Edition
+## Multiple Disk Formats Edition
 
-![Disk Format Environments Edition](Preview/Icon-Variants-DiskFormat.png)
+![Multiple Disk Formats Edition](Preview/Icon-Variants-DiskFormat.png)
 
 ---
 
@@ -83,7 +83,7 @@ The repository contains:
 - Unified Tahoe-style design
 - Identical viewing angle and geometry
 - Consistent lighting and reflections
-- Multiple operating system disk environments
+- Multiple operating system-inspired disk drive environments
 - Multiple disk format environments
 - High-resolution master templates
 - Ready for ICNS conversion
@@ -156,7 +156,7 @@ The icon system was intentionally designed around a unified set of 12 blank mast
 
 As long as future icons continue to use these original master templates, the entire icon family remains visually consistent, reproducible and infinitely expandable — almost like a LEGO system for Tahoe-style drive icons.
 
-Future expansions could include additional external drive editions, SSD and NVMe brand editions, NAS and server environments, additional operating system disk environments, gaming-oriented themes or entirely new filesystem families — all while preserving a unified Tahoe-style visual appearance.
+Future expansions could include additional external drive editions, SSD and NVMe brand editions, NAS and server environments, additional operating system-inspired disk drive environments, gaming-oriented themes or entirely new filesystem families — all while preserving a unified Tahoe-style visual appearance.
 
 For full reproducibility and further expansion of the icon family, it is strongly recommended to continue working in Pixelmator Pro.
 
