@@ -1,12 +1,6 @@
 # Tahoe Drive Icons Pack
 
-High-quality modular macOS Tahoe drive icons for macOS systems featuring:
-
-- macOS disk drive environments
-- Windows disk drive environments
-- Linux disk drive environments
-- EFI and Recovery environments
-- multiple disk format environments
+High-quality modular macOS Tahoe drive icons for assigning custom icons to macOS, Windows, Linux, EFI, Recovery and disk format drives on macOS systems.
 
 Designed for Hackintosh and macOS enthusiasts.
 
