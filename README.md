@@ -28,47 +28,47 @@ The repository contains:
 
 ---
 
-# macOS-Inspired Disk Drive Edition
+# macOS-Inspired Disk Drive Icon Edition
 
-![macOS-Inspired Disk Drive Edition](Preview/Colour-Variants-macOS.png)
-
----
-
-# Windows-Inspired Disk Drive Edition
-
-![Windows-Inspired Disk Drive Edition](Preview/Colour-Variants-Windows.png)
+![macOS-Inspired Disk Drive Icon Edition](Preview/Colour-Variants-macOS.png)
 
 ---
 
-# Linux-Inspired Disk Drive Edition
+# Windows-Inspired Disk Drive Icon Edition
 
-![Linux-Inspired Disk Drive Edition](Preview/Colour-Variants-Linux.png)
+![Windows-Inspired Disk Drive Icon Edition](Preview/Colour-Variants-Windows.png)
 
 ---
 
-# Multiple Disk Formats Edition
+# Linux-Inspired Disk Drive Icon Edition
 
-![Multiple Disk Formats Edition](Preview/Colour-Variants-DiskFormat.png)
+![Linux-Inspired Disk Drive Icon Edition](Preview/Colour-Variants-Linux.png)
+
+---
+
+# Multiple Disk Formats Icon Edition
+
+![Multiple Disk Formats Icon Edition](Preview/Colour-Variants-DiskFormat.png)
 
 ---
 
 # Detailed Icon Editions
 
-## macOS-Inspired Disk Drive Edition
+## macOS-Inspired Disk Drive Icon Edition
 
-![macOS-Inspired Disk Drive Edition](Preview/Icon-Variants-macOS.png)
+![macOS-Inspired Disk Drive Icon Edition](Preview/Icon-Variants-macOS.png)
 
-## Windows-Inspired Disk Drive Edition
+## Windows-Inspired Disk Drive Icon Edition
 
-![Windows-Inspired Disk Drive Edition](Preview/Icon-Variants-Windows.png)
+![Windows-Inspired Disk Drive Icon Edition](Preview/Icon-Variants-Windows.png)
 
-## Linux-Inspired Disk Drive Edition
+## Linux-Inspired Disk Drive Icon Edition
 
-![Linux-Inspired Disk Drive Edition](Preview/Icon-Variants-Linux.png)
+![Linux-Inspired Disk Drive Icon Edition](Preview/Icon-Variants-Linux.png)
 
-## Multiple Disk Formats Edition
+## Multiple Disk Formats Icon Edition
 
-![Multiple Disk Formats Edition](Preview/Icon-Variants-DiskFormat.png)
+![Multiple Disk Formats Icon Edition](Preview/Icon-Variants-DiskFormat.png)
 
 ---
 
