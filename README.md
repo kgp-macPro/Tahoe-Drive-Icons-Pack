@@ -4,6 +4,8 @@ High-quality modular drive icons for assigning custom icons to macOS, Windows, L
 
 Designed for Hackintosh and macOS enthusiasts.
 
+All editions are intended for custom drive icons on macOS Tahoe and use standard macOS ICNS workflow.
+
 ---
 
 # Download Source
