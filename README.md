@@ -4,9 +4,9 @@ High-quality modular drive icons for assigning custom icons to macOS, Windows, L
 
 Designed for Hackintosh and macOS enthusiasts.
 
-All editions are intended for custom drive icons on macOS Tahoe and use standard macOS ICNS workflow.
+All editions are intended for custom drive icons on macOS Tahoe and use standard macOS ICNS workflow. 
 
-Advanced users may also use the included high-resolution PNG assets to manually generate additional icon formats such as .ico files for Windows or alternative Linux icon workflows.
+Included PNG assets may also be used to generate Windows .ico or Linux PNG icon files.
 
 ---
 
