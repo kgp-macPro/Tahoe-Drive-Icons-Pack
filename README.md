@@ -1,12 +1,12 @@
 # Tahoe Drive Icons Pack
 
-High-quality modular drive icons for assigning custom icons to macOS, Windows, Linux, EFI, Recovery and disk format drives on macOS Tahoe.
+High-quality modular drive icons for assigning custom icons to macOS, Windows, Linux, EFI, Recovery and disk format volumes and partitions on macOS Tahoe.
 
 Designed for Hackintosh and macOS enthusiasts.
 
 All editions are intended for custom drive icons on macOS Tahoe and use standard macOS ICNS workflow. 
 
-Included PNG assets may also be used to generate Windows .ico or Linux PNG icon files.
+Included PNG assets may also be used to generate Windows .ico files or be used directly as Linux PNG icon files.
 
 ---
 
@@ -32,47 +32,47 @@ The repository contains:
 
 ---
 
-# macOS-Inspired Disk Drive Icon Edition
+# macOS Volumes Icon Edition
 
-![macOS-Inspired Disk Drive Icon Edition](Preview/Colour-Variants-macOS.png)
-
----
-
-# Windows-Inspired Disk Drive Icon Edition
-
-![Windows-Inspired Disk Drive Icon Edition](Preview/Colour-Variants-Windows.png)
+![macOS Volumes Icon Edition](Preview/Colour-Variants-macOS.png)
 
 ---
 
-# Linux-Inspired Disk Drive Icon Edition
+# Windows Volumes Icon Edition
 
-![Linux-Inspired Disk Drive Icon Edition](Preview/Colour-Variants-Linux.png)
+![Windows Volumes Icon Edition](Preview/Colour-Variants-Windows.png)
 
 ---
 
-# Multiple Disk Formats Icon Edition
+# Linux Volumes Icon Edition
 
-![Multiple Disk Formats Icon Edition](Preview/Colour-Variants-DiskFormat.png)
+![Linux Volumes Icon Edition](Preview/Colour-Variants-Linux.png)
+
+---
+
+# Disk Formats Icon Edition
+
+![Disk Formats Icon Edition](Preview/Colour-Variants-DiskFormat.png)
 
 ---
 
 # Detailed Icon Editions
 
-## macOS-Inspired Disk Drive Icon Edition
+## macOS Volumes Icon Edition
 
-![macOS-Inspired Disk Drive Icon Edition](Preview/Icon-Variants-macOS.png)
+![macOS Volumes Icon Edition](Preview/Icon-Variants-macOS.png)
 
-## Windows-Inspired Disk Drive Icon Edition
+## Windows Volumes Icon Edition
 
-![Windows-Inspired Disk Drive Icon Edition](Preview/Icon-Variants-Windows.png)
+![Windows Volumes Icon Edition](Preview/Icon-Variants-Windows.png)
 
-## Linux-Inspired Disk Drive Icon Edition
+## Linux Volumes Icon Edition
 
-![Linux-Inspired Disk Drive Icon Edition](Preview/Icon-Variants-Linux.png)
+![Linux Volumes Icon Edition](Preview/Icon-Variants-Linux.png)
 
-## Multiple Disk Formats Icon Edition
+## Disk Formats Icon Edition
 
-![Multiple Disk Formats Icon Edition](Preview/Icon-Variants-DiskFormat.png)
+![Disk Formats Icon Edition](Preview/Icon-Variants-DiskFormat.png)
 
 ---
 
@@ -81,8 +81,8 @@ The repository contains:
 - Unified Tahoe-style design
 - Identical viewing angle and geometry
 - Consistent lighting and reflections
-- Multiple operating system-inspired disk drive environments
-- Multiple disk format environments
+- Icons for macOS, Windows, Linux, EFI and Recovery volumes
+- Icons for multiple filesystem and disk format types
 - High-resolution master templates
 - Ready for ICNS conversion
 
@@ -154,7 +154,7 @@ The icon system was intentionally designed around a unified set of 12 blank mast
 
 As long as future icons continue to use these original master templates, the entire icon family remains visually consistent, reproducible and infinitely expandable — almost like a LEGO system for Tahoe-style drive icons.
 
-Future expansions could include additional external drive editions, SSD and NVMe brand editions, NAS and server environments, additional operating system-inspired disk drive environments, gaming-oriented themes or entirely new filesystem families — all while preserving a unified Tahoe-style visual appearance.
+Future expansions could include additional external drive editions, SSD and NVMe brand editions, NAS and server environments, additional volume and partition categories, gaming-oriented themes or entirely new filesystem families — all while preserving a unified Tahoe-style visual appearance.
 
 For full reproducibility and further expansion of the icon family, it is strongly recommended to continue working in Pixelmator Pro.
 
