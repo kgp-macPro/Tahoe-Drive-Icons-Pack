@@ -114,6 +114,20 @@ The repository contains:
 3. Drag the respective `.icns` file onto the small icon in the upper-left corner of the Info window.
 4. Close the Info window.
 
+## Windows and Linux Volumes
+
+Custom icons can only be stored permanently on Windows and Linux volumes if the respective filesystems are properly mounted under macOS with read and write access.
+
+For NTFS volumes, third-party drivers such as Paragon NTFS may be required.
+
+For Linux filesystems (ext2/ext3/ext4), third-party solutions such as Paragon extFS may be required.
+
+Without proper filesystem access, macOS may not be able to save the icon information on the target volume.
+
+### EFI Partitions
+
+OpenCore EFI partitions must be mounted before custom icons can be assigned.
+
 ---
 
 ## Typical Usage Scenarios
