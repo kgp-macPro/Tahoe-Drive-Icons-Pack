@@ -1,10 +1,10 @@
-# Tahoe Drive Icons Pack
+# Tahoe Drive Icons Pack - macOS Drive Icons for Desktop, Finder, EFI Partitions, OpenCore and Disk Volumes
 
-High-quality modular drive icons for assigning custom icons to macOS, Windows, Linux, EFI, Recovery and disk format volumes and partitions on macOS Tahoe.
+High-quality modular drive icons inspired by the design language of macOS Tahoe for assigning custom icons to macOS drive volumes and partitions, including EFI, Recovery, Windows, Linux and various disk format volumes displayed on macOS.
 
 Designed for Hackintosh and macOS enthusiasts.
 
-All editions are intended for custom drive icons on macOS Tahoe and use standard macOS ICNS workflow. 
+All editions are intended for use as custom drive icons on macOS and use the standard macOS ICNS workflow.
 
 Included PNG assets may also be used to generate Windows .ico files or be used directly as Linux PNG icon files.
 
@@ -81,7 +81,7 @@ The repository contains:
 - Unified Tahoe-style design
 - Identical viewing angle and geometry
 - Consistent lighting and reflections
-- Icons for macOS, Windows, Linux, EFI and Recovery volumes
+- Icons for EFI, Recovery, macOS, Windows and Linux volumes under macOS
 - Icons for multiple filesystem and disk format types
 - High-resolution master templates
 - Ready for ICNS conversion
