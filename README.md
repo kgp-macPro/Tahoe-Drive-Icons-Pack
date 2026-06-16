@@ -130,6 +130,42 @@ OpenCore EFI partitions must be mounted before custom icons can be assigned.
 
 ---
 
+# Video Tutorials
+
+Many thanks to @kaoskinkae for creating and publishing video tutorials demonstrating different aspects of the Tahoe Drive Icons Pack.
+
+The videos are presented in Spanish. However, YouTube subtitles can be enabled and translated automatically into many languages if required.
+
+## Project Overview
+
+https://www.youtube.com/watch?v=ERcI52GBOQ4
+
+General introduction to the Tahoe Drive Icons Pack, available icon editions and basic usage under macOS.
+
+## Linux Volumes using Paragon extFS
+
+https://www.youtube.com/watch?v=Q5vvgJ1jr9k
+
+Demonstrates:
+
+- mounting Linux volumes under macOS
+- enabling read/write access via Paragon extFS
+- assigning Linux volume icons using standard macOS ICNS workflow
+
+## Windows Volumes using Paragon NTFS
+
+https://www.youtube.com/watch?v=9-sJnYLmEEY
+
+Demonstrates:
+
+- mounting NTFS volumes under macOS
+- enabling read/write access via Paragon NTFS
+- assigning Windows volume icons using standard macOS ICNS workflow
+
+Many thanks again to @kaoskinkae for supporting the project and helping create practical installation tutorials for the community.
+
+---
+
 ## Typical Usage Scenarios
 
 The Tahoe Drive Icons Pack is especially suited for:
