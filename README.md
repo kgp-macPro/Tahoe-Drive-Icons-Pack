@@ -6,7 +6,7 @@ Designed for Hackintosh and macOS enthusiasts.
 
 All editions are intended for use as custom drive icons on macOS and use the standard macOS ICNS workflow.
 
-Included PNG assets may also be used to generate Windows .ico files or be used directly as Linux PNG icon files.
+Included PNG assets may also be used to generate Windows `.ico` files or used directly as icon files under Linux.
 
 ---
 
@@ -84,7 +84,7 @@ The repository contains:
 - Icons for EFI, Recovery, macOS, Windows and Linux volumes under macOS
 - Icons for multiple filesystem and disk format types
 - High-resolution master templates
-- Ready for ICNS conversion
+- High-resolution PNG assets for `.icns` and `.ico` generation
 
 ---
 
@@ -178,6 +178,20 @@ The Tahoe Drive Icons Pack is especially suited for:
 - external SSD and USB installations
 - Hackintosh multi-boot systems
 - OpenCore-based macOS setups
+
+---
+
+# Windows 11 + MyDockFinder
+
+Although primarily designed for macOS, the included high-resolution PNG assets can also be used to generate Windows `.ico` files using Image2Icon or comparable icon conversion tools.
+
+The generated `.ico` files can then be assigned to Windows drive shortcuts and, in combination with MyDockFinder, can be used to create a macOS-inspired desktop environment under Windows 11.
+
+Windows users who wish to create desktop shortcuts for APFS, HFS+ or Linux volumes, as shown below, may require suitable third-party filesystem drivers. Applications such as **Paragon APFS**, **Paragon HFS+** and **Paragon extFS** can provide the required filesystem access.
+
+> **Note:** Windows `.ico` files are **not** included in the repository or the downloadable releases. They can easily be generated from the provided PNG assets using Image2Icon or comparable icon conversion tools. MyDockFinder is an optional third-party application and is **not required** to use the Tahoe Drive Icons Pack.
+
+![Windows 11 + MyDockFinder](Preview/Windows11-MyDockFinder.png)
 
 ---
 
